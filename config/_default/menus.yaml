@@ -1,0 +1,13 @@
+leftnav:
+- identifier: f0442181-2948-6048-19c9-8fc5f22ff6b0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2a33c1f3-620e-8d1f-eb0b-791e7076de38
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 20
+- identifier: c3723058-a22d-366d-5900-c97bb88dedc8
+  name: Image Gallery
+  pageRef: /pages/image-gallery
+  weight: 30
